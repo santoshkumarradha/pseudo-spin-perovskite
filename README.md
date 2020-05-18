@@ -6,12 +6,12 @@ Check list completed
 
 1. ~Periodic boundary conditions~ 
 
-<img src='./animations/peorvsk2.gif' width="200">
+<img src='./animations/peorvsk2.gif' width="300">
 
 2. ~rotation of tetrahedrons~ 
 
-<img src='./animations/rot_001.gif' width="200">
+<img src='./animations/rot_001.gif' width="300">
 
 3. ~Nearest Neighbor Dipole and Bonding term caculation~
 
-<img src='./animations/complete_100.gif' width="400">
+<img src='./animations/complete_100.gif' width="600">
