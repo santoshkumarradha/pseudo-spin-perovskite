@@ -9,8 +9,13 @@ Part 2 - http://www.santoshkumarradha.me/blog/2020/julia-MC/
 
 
 
+### Things to do
 
-Check list completed
+1. MC steps
+2. Memory and speed test with system size
+3. Fit coupling parameter to real DFT energies
+
+### Check list completed
 
 1. ~Periodic boundary conditions~ 
 
