@@ -1,0 +1,42 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  'rb2 ge2 cl6'
+_cell_length_a                         5.91437
+_cell_length_b                         7.19642
+_cell_length_c                         8.36143
+_cell_angle_alpha                      90
+_cell_angle_beta                       107.59318
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Cl1        1.0     0.997697      0.000000      0.990532     Biso  1.000000 Cl
+   Cl2        1.0     0.658963      0.500000      0.755728     Biso  1.000000 Cl
+   Cl3        1.0     0.145171      0.257524      0.549633     Biso  1.000000 Cl
+   Cl4        1.0     0.511489      0.757524      0.196627     Biso  1.000000 Cl
+   Cl5        1.0     0.145171      0.742476      0.549633     Biso  1.000000 Cl
+   Cl6        1.0     0.511489      0.242476      0.196627     Biso  1.000000 Cl
+   Ge7        1.0     0.400001      0.000000      0.999997     Biso  1.000000 Ge
+   Ge8        1.0     0.256659      0.500000      0.746263     Biso  1.000000 Ge
+   Rb9        1.0     0.655520      0.000000      0.573834     Biso  1.000000 Rb
+   Rb10       1.0     0.001140      0.500000      0.172426     Biso  1.000000 Rb
