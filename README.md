@@ -1,4 +1,4 @@
-i# Pseudo Spin phase transition in metal halide perovskites
+# Pseudo Spin phase transition in metal halide perovskites
 
 Very early commit on an ongoing project.
 Blog posts about the progress can be read at
@@ -16,7 +16,7 @@ Part 2 - http://www.santoshkumarradha.me/blog/2020/julia-MC/
 2. Fit coupling parameter to real DFT energies
 3. ~MC steps (at T = 0K)~
 
-<img src='./animations/MC_3.gif' width="600">
+<img src='./animations/MC_3.gif' width="900">
 
 4. ~Periodic boundary conditions~ 
 
