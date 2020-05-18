@@ -3,9 +3,9 @@
 Very early commit on an ongoing project.
 Blog posts about the progress can be read at
 
-Part 1 - http://www.santoshkumarradha.me/blog/2020/julia-MC2/
+Part 1 - http://www.santoshkumarradha.me/blog/2020/julia-MC/
 
-Part 2 - http://www.santoshkumarradha.me/blog/2020/julia-MC/
+Part 2 - http://www.santoshkumarradha.me/blog/2020/julia-MC2/
 
 
 
