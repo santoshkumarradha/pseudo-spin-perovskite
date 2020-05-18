@@ -5,10 +5,13 @@ Very early commit on an ongoing project.
 Check list completed
 
 1. ~Periodic boundary conditions~ 
-![](./animations/peorvsk2.gif)
+
+<img src='./animations/peorvsk2.gif' width="600">
 
 2. ~rotation of tetrahedrons~ 
-![](./animations/rot_001.gif)
+
+<img src='./animations/rot_001.gif' width="600">
 
 3. ~Nearest Neighbor Dipole and Bonding term caculation~
-![](./animations/complete_100.gif)
+
+<img src='./animations/complete_100' width="600">
