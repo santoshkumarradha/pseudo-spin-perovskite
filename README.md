@@ -16,8 +16,10 @@ Part 2 - http://www.santoshkumarradha.me/blog/2020/julia-MC2/
 2. Fit coupling parameter to real DFT energies
 3. ~MC steps (at T = 0K)~
 
-<img src='./animations/MC_3.gif' width="900">
+AFM and FM sollution
 
+<img src='./animations/MC_3.gif' width="900">
+<img src='./animations/MC_1.gif' width="900">
 4. ~Periodic boundary conditions~ 
 
 <img src='./animations/peorvsk2.gif' width="300">
