@@ -1,4 +1,4 @@
-# Pseudo Spin phase transition in metal halide perovskites
+# Quantum Monte-Carlo Pseudo Spin phase transition in metal halide perovskites
 
 Very early commit on an ongoing project.
 Blog posts about the progress can be read at
